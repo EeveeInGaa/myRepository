@@ -1,6 +1,6 @@
 # EeveeInGaa
 
-- currently learning webdev at Coding Bootcamps Europe 🪄
+- thrilled to work with [qupaya](https://github.com/qupaya)! 😻
 
 - want to exchange with other developers 🙌🏻
 
