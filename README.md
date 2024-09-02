@@ -1,7 +1,5 @@
 # EeveeInGaa
 
-- thrilled to work with [qupaya](https://github.com/qupaya)! 😻
-
 - focus on Fronend Development and UX/UI Design 🌷
 
 - love to plan things and create lists 🌱
